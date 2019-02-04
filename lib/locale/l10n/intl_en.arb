@@ -1,0 +1,13 @@
+{
+  "@@last_modified": "2019-01-26T20:34:30.770438",
+  "helloWorld": "Hello world",
+  "@helloWorld": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "homeButton": "Home button",
+  "@homeButton": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
